@@ -1,3 +1,5 @@
+<img src="logo.png" width="96" alt="Pawnder">
+
 # Pawnder
 
 Pawnder: Learn Chess, by Nevermiss Studio. An offline chess app for learning: every game reviewed in plain words, puzzles, a step-by-step course and computer opponents that play like people of your level. No ads, no account, no data collected.
